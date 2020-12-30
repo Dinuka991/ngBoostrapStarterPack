@@ -1,0 +1,11 @@
+.bdy{
+    margin-top: 10%  !important;
+    margin-bottom: 10% !important;
+    background-color: #FFF;
+    padding: 30px !important;  
+    border-radius: 1%;
+}
+.form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+} 
